@@ -10,9 +10,11 @@
 ---
 
 ### 👨‍💻 About Me
+<p align="center">
 💡 I love building modern, user-friendly apps with <b>Flutter</b> and <b>React Native</b>.<br/>
 🎨 Passionate about UI/UX design and clean code.<br/>
 🌍 Always learning and exploring new tech.
+</p>
 
 ---
 
@@ -62,21 +64,30 @@
 
 ---
 
-### 📊 GitHub Stats
+### 💻 Tech Stack (Badges)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zhgjulien&show_icons=true&theme=tokyonight&count_private=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zhgjulien&theme=tokyonight" height="150"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhgjulien&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37"/>
 </p>
 
 ---
 
+### 📊 GitHub Stats
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=zhgjulien&icon=0&color=0" alt="Profile Visit Counter"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=zhgjulien&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zhgjulien&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhgjulien&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+### ✍️ Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </p>
 
 </div>
